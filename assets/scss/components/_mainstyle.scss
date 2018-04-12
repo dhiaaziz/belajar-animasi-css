@@ -33,13 +33,16 @@ body{
 .border-neon{
   border: 5px solid white;
   margin: 0 auto;
-  padding: 3%;
+  // padding: 1px;
+  // max-width:
 }
 
 .box-center{
   // position: absolute;
   padding-top: 10%;
-  left: 50%;
+  // left: 50%;
+  margin: 0 auto;
+  // max-width: 60%;
 }
 
 .h-persen-100{
@@ -48,9 +51,15 @@ body{
 }
 
 .box-tengah{
-  max-width: 50%;
+  // max-width: 50%;
   display: block;
   margin: 0 auto;
+}
+.box-60{
+  max-width: 60%;
+}
+.box-50{
+  max-width: 50%;
 }
 
 .code-box{

@@ -43,7 +43,7 @@
 @keyframes pulsating{
   0%{
     text-shadow: 0px 0px 0px;
-    opacity: 0.2;
+    opacity: 0.1;
   }
   // 45%{
   //   @include neon-effect($red);
@@ -59,7 +59,7 @@
   // }
   100%{
     text-shadow: 0px 0px 0px;
-    opacity: 0.2;
+    opacity: 0.1;
   }
 }
 
